@@ -1,4 +1,4 @@
-num=int(input("Enter number:"))
+num=3
 factorial=1
 if num<0:
     print("The factorial does not for neagative numners")
